@@ -1,6 +1,6 @@
 # 
 
-This app allows you to store files in a hadoop cluster.
+This api allows you to store files in a hadoop cluster.
 
  * For the test of this API, I used 2 NameNodes and three datanodes
   that are placed on 5 machines, the flows are sent to the active NameNode that is chosen automatically  and it manages communication with datanodes blocks in terms  of management ..... .
